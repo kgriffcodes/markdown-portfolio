@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I've got some awesome talents. I can **code**, _act_, swim, sing, and **_bake_**.
